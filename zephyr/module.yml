@@ -1,3 +1,4 @@
+name: lllkeeb
 build:
   settings:
     board_root: .

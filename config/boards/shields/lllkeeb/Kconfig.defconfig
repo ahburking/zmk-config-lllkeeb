@@ -1,0 +1,6 @@
+if SHIELD_LLLKEEB
+
+config ZMK_KEYBOARD_NAME
+    default "lllkeeb"
+
+endif
